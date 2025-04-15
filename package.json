@@ -1,0 +1,25 @@
+{
+  "name": "playwright-tutoriel",
+  "version": "0.0.1",
+  "description": "Tutoriel de mise en pratique de concepts de l'outil de test playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "tutoriel"
+  ],
+  "author": "jeanlrnt",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.51.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1"
+  }
+}

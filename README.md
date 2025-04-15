@@ -2,6 +2,9 @@
 
 Tutoriels pour apprendre à utiliser Playwright, un outil de test d'interface utilisateur pour les applications web.
 
+## Sommaire
+- [Modes d'ordonnancement des tests](doc/1.Ordonnancement.md)
+
 ## Installation
 
 ```bash
